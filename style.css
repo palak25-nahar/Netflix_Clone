@@ -442,6 +442,7 @@ ul.structural>li {
     color: #fff;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 .fourth-story-watch-every {
     position: relative;
@@ -452,6 +453,7 @@ ul.structural>li {
     color: #fff;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 .our-story-card-video {
     width: 100%;
@@ -474,6 +476,7 @@ video {
     background: 0 0;
     color: #fff;
     display: flex;
+    align-items: center;
 }
 .form-title{
     color: white;
